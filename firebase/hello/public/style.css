@@ -1,0 +1,148 @@
+
+
+
+/*id*/
+
+
+/*classes*/
+.urge{
+	font-family: Verdana,Geneva,sans-serif;
+	background-color: #ff1a1a;
+	color:white;
+	text-decoration: none;
+	vertical-align: right;
+}
+.urge:hover{
+	background-color: #FFA07A;
+	vertical-align: right;
+}
+
+.fa-check-square-o{
+	display: block;
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 42px;
+	margin-bottom: 12px;
+}
+.tab{
+	padding-left: 10 px;
+}
+
+.indent{
+	margin:1em;
+}
+
+.section1{
+	background-color:#ff1a1a;
+	text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-variant: normal;
+	color: white;
+	margin-bottom: 10;
+    padding: 20px;
+	vertical-align: center;
+	vertical-align: middle;
+}
+.section2{
+	background-color: #3333ff;
+	margin-bottom: 10;
+	padding: 20px;
+	color: white;
+	vertical-align: middle;
+}
+.section3{
+	background-color:#e6e6e6;
+	margin-bottom: 10;
+	padding: 20px;
+	vertical-align: middle;
+}
+.subFooter{
+	font-family: Verdana,Geneva,sans-serif;
+	text-align:center;
+}
+
+.rounded{
+	border-radius: 25px;
+}
+
+.button{
+	background-color:orange;
+	color:white;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+	cursor: pointer;
+	padding: 15px 25px;
+}
+
+.blueText{
+    color:blue;
+}
+
+.button:active {
+  background-color: #FFA07A;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.bullet{
+
+}
+
+/*tags*/
+html{/*Everything*/
+	background-color:#f2f2f2;
+	font-family: Verdana,Geneva,sans-serif;
+}
+h1{
+	font-family: Verdana,Geneva,sans-serif;
+}
+h2{
+	font-family: Arial;
+	text-align:center;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 50px;
+}
+h3{
+	font-family: Verdana,Geneva,sans-serif;
+	text-align:center;
+	font-size: 36px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 40px;
+}
+p{
+	font-family: Roboto;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 24px;
+	margin-bottom: 36px;
+}
+fa{
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 42px;
+	display:block;
+	margin-bottom: 12px;
+}
+
+footer{
+	padding: 20px;
+}
+
+#my_id{
+    font-family: Roboto;
+    font-size:40px;
+}
