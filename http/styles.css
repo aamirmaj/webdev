@@ -1,0 +1,13 @@
+body {
+	background-color: #F5F5DC;
+}
+h1 {
+	color: green;	
+	font-family: "Noto Sans", Times, Georgia, serif;
+}
+.myheader {
+	color:red;
+}
+#id123 {
+	color:yellow;
+}
